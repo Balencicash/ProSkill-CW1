@@ -43,7 +43,7 @@ cd gray-scott-sim
 make all 
 ```
 
-# testing 
+# Testing 
 
 This project uses Acutest for unit testing. The tests cover various aspects of the simulation:
 
