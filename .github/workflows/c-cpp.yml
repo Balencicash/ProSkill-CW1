@@ -28,7 +28,7 @@ jobs:
       run: ls
 
     - name: Configure CMake
-      run: cmake ../cw1
+      run: cmake ../
     
     - name: List current directory
       run: ls
